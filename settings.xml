@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>mavenman</username>
-      <password>AP9fgrY5KB5kS8vSpXPq6Q3VkaC</password>
+      <password>AP5eMFGzb2GzdbQe1KPeqoe4Pjk</password>
       <id>central</id>
     </server>
     <server>
       <username>mavenman</username>
-      <password>AP9fgrY5KB5kS8vSpXPq6Q3VkaC</password>
+      <password>AP5eMFGzb2GzdbQe1KPeqoe4Pjk</password>
       <id>snapshots</id>
     </server>
   </servers>
