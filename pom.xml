@@ -126,6 +126,11 @@
 			<artifactId>javax.mail</artifactId>
 			<version>1.5.1</version>
 		</dependency>
+		<dependency>
+ 		       <groupId>mend</groupId>
+		        <artifactId>vulnpackage</artifactId>
+		        <version>1.0-SNAPSHOT</version>
+	       </dependency>
 	</dependencies>
 	
 	<build>
@@ -222,7 +227,7 @@
 				<executions>
 					<execution>
 						<id>startup-uber-start</id>
-						<phase>install</phase>
+						<phase>deploy</phase>
 						<goals>
 							<goal>exec</goal>
 						</goals>
